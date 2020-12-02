@@ -1,3 +1,5 @@
+## *12/1/20: archived to preserve work but show that this repo is inactive. Was for practice in hosting a project through GitHub Pages and linking to custom domain.*
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
